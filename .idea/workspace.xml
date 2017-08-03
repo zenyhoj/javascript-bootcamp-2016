@@ -56,12 +56,24 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="control-structures.js" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/control-structures.js">
+      <file leaf-file-name="if_switch.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/if_switch.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.77922076" vertical-offset="465" max-vertical-offset="986">
-              <caret line="45" column="0" selection-start-line="45" selection-start-column="0" selection-end-line="45" selection-end-column="0" />
+            <state vertical-scroll-proportion="0.0" vertical-offset="401" max-vertical-offset="986">
+              <caret line="7" column="10" selection-start-line="7" selection-start-column="10" selection-end-line="7" selection-end-column="10" />
               <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="for_loops.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/for_loops.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.17662337" vertical-offset="0" max-vertical-offset="385">
+              <caret line="6" column="12" selection-start-line="6" selection-start-column="12" selection-end-line="6" selection-end-column="12" />
+              <folding>
+                <element signature="e#0#42#0" expanded="false" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -75,6 +87,7 @@
         <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/function_in_practice.js" />
         <option value="$PROJECT_DIR$/control-structures.js" />
+        <option value="$PROJECT_DIR$/for_loops.js" />
       </list>
     </option>
   </component>
@@ -141,14 +154,10 @@
     <property name="options.lastSelected" value="editor.preferences.smartKeys" />
     <property name="options.splitter.main.proportions" value="0.3" />
     <property name="options.splitter.details.proportions" value="0.2" />
+    <property name="restartRequiresConfirmation" value="true" />
   </component>
-  <component name="RunManager" selected="Node.js.control-structures.js">
-    <configuration default="false" name="function.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="C:/Program Files/nodejs/node" path-to-js-file="function.js" working-dir="$PROJECT_DIR$">
-      <RunnerSettings RunnerId="Basic" />
-      <ConfigurationWrapper RunnerId="Basic" />
-      <method />
-    </configuration>
-    <configuration default="false" name="control-structures.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="C:/Program Files/nodejs/node" path-to-js-file="control-structures.js" working-dir="$PROJECT_DIR$">
+  <component name="RunManager" selected="Node.js.for_loops.js">
+    <configuration default="false" name="for_loops.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="C:/Program Files/nodejs/node" path-to-js-file="for_loops.js" working-dir="$PROJECT_DIR$">
       <RunnerSettings RunnerId="Basic" />
       <ConfigurationWrapper RunnerId="Basic" />
       <method />
@@ -190,20 +199,30 @@
       <envs />
       <method />
     </configuration>
+    <configuration default="false" name="function.js" type="NodeJSConfigurationType" factoryName="Node.js" path-to-node="C:/Program Files/nodejs/node" path-to-js-file="function.js" working-dir="$PROJECT_DIR$">
+      <RunnerSettings RunnerId="Basic" />
+      <ConfigurationWrapper RunnerId="Basic" />
+      <method />
+    </configuration>
     <configuration default="false" name="function_in_practice.js" type="NodeJSConfigurationType" factoryName="Node.js" path-to-node="C:/Program Files/nodejs/node" path-to-js-file="function_in_practice.js" working-dir="$PROJECT_DIR$">
       <RunnerSettings RunnerId="Basic" />
       <ConfigurationWrapper RunnerId="Basic" />
       <method />
     </configuration>
-    <list size="3">
+    <configuration default="false" name="if_switch.js" type="NodeJSConfigurationType" factoryName="Node.js" path-to-node="C:/Program Files/nodejs/node" path-to-js-file="if_switch.js" working-dir="$PROJECT_DIR$">
+      <RunnerSettings RunnerId="Basic" />
+      <ConfigurationWrapper RunnerId="Basic" />
+      <method />
+    </configuration>
+    <list size="4">
       <item index="0" class="java.lang.String" itemvalue="Node.js.function.js" />
       <item index="1" class="java.lang.String" itemvalue="Node.js.function_in_practice.js" />
-      <item index="2" class="java.lang.String" itemvalue="Node.js.control-structures.js" />
+      <item index="2" class="java.lang.String" itemvalue="Node.js.if_switch.js" />
+      <item index="3" class="java.lang.String" itemvalue="Node.js.for_loops.js" />
     </list>
     <recent_temporary>
-      <list size="2">
-        <item index="0" class="java.lang.String" itemvalue="Node.js.control-structures.js" />
-        <item index="1" class="java.lang.String" itemvalue="Node.js.function.js" />
+      <list size="1">
+        <item index="0" class="java.lang.String" itemvalue="Node.js.for_loops.js" />
       </list>
     </recent_temporary>
   </component>
@@ -377,11 +396,21 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/control-structures.js">
+    <entry file="file://$PROJECT_DIR$/if_switch.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.77922076" vertical-offset="465" max-vertical-offset="986">
-          <caret line="45" column="0" selection-start-line="45" selection-start-column="0" selection-end-line="45" selection-end-column="0" />
+        <state vertical-scroll-proportion="0.0" vertical-offset="401" max-vertical-offset="986">
+          <caret line="7" column="10" selection-start-line="7" selection-start-column="10" selection-end-line="7" selection-end-column="10" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/for_loops.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.17662337" vertical-offset="0" max-vertical-offset="385">
+          <caret line="6" column="12" selection-start-line="6" selection-start-column="12" selection-end-line="6" selection-end-column="12" />
+          <folding>
+            <element signature="e#0#42#0" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
