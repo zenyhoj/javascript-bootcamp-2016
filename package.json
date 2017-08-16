@@ -1,0 +1,19 @@
+{
+  "name": "javascript_basics",
+  "version": "1.0.0",
+  "description": "",
+  "main": "concepts.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zenyhoj/javascript-bootcamp-2016.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zenyhoj/javascript-bootcamp-2016/issues"
+  },
+  "homepage": "https://github.com/zenyhoj/javascript-bootcamp-2016#readme"
+}
